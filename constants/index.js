@@ -1,0 +1,4 @@
+WHITELIST_CONTRACT_ADDRESS = "0xCd3C14A4F95ded359d459C486a6A74cd0f3D171b";
+METADATA_URL = "https://nft-collection-sneh1999.vercel.app/api/";
+
+module.exports = {WHITELIST_CONTRACT_ADDRESS, METADATA_URL}
